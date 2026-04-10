@@ -1,1 +1,1 @@
-Public relathionship MCP
+Public Relationship MCP
