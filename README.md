@@ -1,1 +1,1 @@
-PR MCP
+Public relathionship MCP
